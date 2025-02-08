@@ -8,8 +8,9 @@ This system was entirely designed and constructed in-house to facilitate hands-o
 **PITCH VIDEO: **
 
 <a href="https://www.youtube.com/watch?v=V0N-rWu1oxw" target="_blank">
-    <img src="https://img.youtube.com/vi/V0N-rWu1oxw/maxresdefault.jpg" alt="Watch the video" width="400">
+    <img src="https://img.youtube.com/vi/V0N-rWu1oxw/hqdefault.jpg" alt="Watch the video" width="400">
 </a>
+
 
 
 ## Key Features
