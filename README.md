@@ -1,11 +1,16 @@
 # Development of a Cart-Mounted Inverted Pendulum Test Bench
 
-![Project Overview](https://link-to-project-image-or-demo.gif)
-
 ## Project Description
 This repository contains the report for the design and development of a **cart-mounted inverted pendulum test bench**, created as an undergraduate thesis project by **Sarwan Shah, Muhammad Abdullah Siddiqui, and Adil Ali Khan** at **Habib University** in **2021**. The project aims to offer students an accessible, scalable, and cost-effective platform for learning control system principles and exploring vision-based control strategies.
 
 This system was entirely designed and constructed in-house to facilitate hands-on research and education.
+
+**PITCH VIDEO: **
+
+<a href="https://www.youtube.com/watch?v=V0N-rWu1oxw" target="_blank">
+    <img src="https://img.youtube.com/vi/V0N-rWu1oxw/maxresdefault.jpg" alt="Watch the video" width="400">
+</a>
+
 
 ## Key Features
 - **Custom-built hardware** platform with a cart-mounted pendulum.
